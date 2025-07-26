@@ -1,0 +1,24 @@
+{
+  "name": "pre-generator",
+  "version": "1.0.0",
+  "description": "Criando um gerador de QR Code usando Node.JS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiomerces/pre-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiomerces/pre-generator/issues"
+  },
+  "homepage": "https://github.com/sergiomerces/pre-generator#readme",
+  "dependencies": {
+    "prompt": "^1.3.0"
+  }
+}
