@@ -1,3 +1,4 @@
 # arquivos a serem ignorados
 
 node_modules/
+.env
